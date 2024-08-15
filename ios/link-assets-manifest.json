@@ -1,0 +1,29 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/OpenSans-Bold.ttf",
+      "sha1": "1e3704ee48b5ff7e582488ead87b05249f14dc1c"
+    },
+    {
+      "path": "assets/fonts/OpenSans-Semibold.ttf",
+      "sha1": "f1ee7a9c6d13ee2d642a806c09e737275e613792"
+    },
+    {
+      "path": "assets/fonts/OpenSans.ttf",
+      "sha1": "3564ed0b5363df5cf277c16e0c6bedc5a682217f"
+    },
+    {
+      "path": "assets/fonts/Playfair Display.ttf",
+      "sha1": "cde31cd8c30fca7e341fdecf73b3b7a9ed1b6afc"
+    },
+    {
+      "path": "assets/fonts/PlayfairDisplay-Bold.otf",
+      "sha1": "fb7bc4c7aaae96f694e051ba501d1789ba3894f1"
+    },
+    {
+      "path": "assets/fonts/PlayfairDisplay-SemiBold.ttf",
+      "sha1": "189bdb23fb0758ceca00fce261f06fd4e83f832a"
+    }
+  ]
+}
